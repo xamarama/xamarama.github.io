@@ -7,3 +7,5 @@
  [Урок-6](https://xamarama.github.io/lesson-6/) - Домашняя работа по Уроку-6
  
  [Урок-9](https://xamarama.github.io/lesson-9/) - Домашняя работа по Уроку-9
+ 
+ [Урок-13](https://xamarama.github.io/lesson_13/) - Домашняя работа по Уроку-13
